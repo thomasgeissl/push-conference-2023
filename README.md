@@ -10,10 +10,10 @@
 * [Workshop] designing personalities (15min -> 12.50)
   * prototyping via the web interface
   * prototyping via the app
-* [optional][Ideation] where to use bots with personalities?
+* [optional][Ideation] usecases for bots with personalities?
 * [Demo] MIDIVIBE3000 (5min -> 12.55)
-* [optional][Exercise] bot <3 bot (5min -> 13.00)
-* [Dialog] (5min)
+* [optional][Exercise] bot <3 bot (5min)
+* [Dialog] (5min -> 13.00)
 
 ## this and that
 * in case someone needs a miro board: miro.botornot.love
